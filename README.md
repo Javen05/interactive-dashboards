@@ -1,4 +1,4 @@
-# interactive-dashboards
+# Interactive Dashboards
 Dump of interactive dashboards created using Tableau. Click on a point on any chart to filter and delve into a category.
 
 ### Gaming Industry Analysis
